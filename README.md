@@ -1,5 +1,3 @@
-Ecco una descrizione breve e pronta per il tuo README.md:
-
 FlashSnap
 
 FlashSnap è un'app desktop leggera e trasparente in stile Liquid Glass per
